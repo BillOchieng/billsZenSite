@@ -1,8 +1,13 @@
 ---
-title: "About me"
+title: "Coursework"
 
 ---
 
-### Hi, there! I am **Bill Ochieng**
+## Computer Science Coursework
 
-Student Data Analyst, Software Engineer, Finance enthusiast and web-developer from Allegheny College who is in love with data, finance and tech and is always working on improving his craft or pondering over the next big idea.
+* Bill Ochieng
+* ochieng01 (a) allegheny (dot) edu
+
+## Economics Coursework
+
+Intro to finance

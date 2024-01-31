@@ -1,8 +1,7 @@
 ---
-title: "Relevant Coursework"
+title: "Experience"
 ---
 
-![writer logo](/resources/images/writerinspace.png)
 
 #### Computer Science Classes
 
