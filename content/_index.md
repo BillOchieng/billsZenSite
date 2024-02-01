@@ -7,25 +7,14 @@ title: "Personal Portfolio"
 
 # Welcome to my personal portfolio
 
-## Tech Books(collect)
+## collect
 
-* Deetjen, Thomas A.. _Published: A Guide to Literature Review, Outlining, Experimenting, Visualization, Writing, Editing, and Peer Review for Your First Scientific Journal Article_. Poland: Productive Academic Press, 2020. ISBN: 9781734493108
+*Hello, I'm Bill Ochieng, a data enthusiast with a Bachelor of Science in Computer Science and Economics from Allegheny College. My journey in data collection can be best highlighted by the hands-on activities directing students in weekly lab sessions, where I emphasized the significance of gathering robust and relevant data sets using advanced software tools. This experience was further enriched during my tenure as a Tech & IT Intern and a Summer Research Intern, where I mastered the art of conceptualizing and developing platforms that streamline data collection processes. My expertise not only lies in leveraging tools like Python, SQL, and NoSQL databases for efficient data capture but also in implementing innovative approaches to ensure data integrity and relevance. I have theoretical and practical knowledge in survey design and impact assessment. I have data collection and management experience.I am keen on applying these skills to help organizations lay a solid foundation for their data-driven decision-making processes.*
 
-* Dupre, L. (2000). _BUGS in Writing: A Guide to Debugging Your Prose_ United States: Addison-Wesley.
+## process
 
-## Finance Books(process)
+*I can offer support on improving existing workflows and creation of new processes, covering data transformation unification, spatial and predictive analysis. With a solid foundation in both computer science and economics, specifically Finance from Allegheny College, I've honed my skills in the intricate process of data processing. My senior thesis on 'Machine Learning Enhanced Credit Card Fraud Detection System' is a testament to my capability in analyzing and processing large-scale datasets to draw actionable insights, especially in the financial sector. Utilizing programming languages and frameworks like Python, R, NumPy, pandas, and Scikit Learn, I've developed a keen eye for transforming raw data into structured formats, ready for analysis. My role as a Technical Leader in the CIS Department further allowed me to guide students through the complexities of data analysis, emphasizing the importance of clean, processed data for accurate insights. I am excited to bring this expertise to teams looking to refine their data processing pipelines for enhanced analytical outcomes.*
 
-* Evans, D., Zobel, J., Gruba, P. (2014). How to Write a Better Thesis. Germany: Springer International Publishing.
+## visualize
 
-* Gruba, P., Zobel, J. (2017). How To Write Your First Thesis. Germany: Springer International Publishing. ISBN: 978-1-4471-6638-2
-
-* Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
-
-## inspirational/Motivational  Books(visualize)
-
-* Think Python, first edition, by Allen B. Downey.
-  * [Publisher Website](https://greenteapress.com/wp/) -->
-
-* BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
-
-* Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+*My expertise in data visualization is built on a comprehensive academic background and hands-on experience in creating interactive, user-friendly dashboards and visual roadmaps. As a Summer Research Intern at Allegheny College, I led the development of an innovative visual roadmap that significantly improved student engagement and academic planning. This, coupled with my technical skills in utilizing visualization tools like Matplotlib, Tableau, Seaborn, and D3.js, allows me to turn complex datasets into compelling visual stories. Whether it's for academic, financial, or web performance analysis, my visualizations aim to make data accessible and actionable for all stakeholders. I am passionate about leveraging these skills to help organizations communicate their data in visually engaging ways, driving insights and decisions.*
