@@ -2,18 +2,13 @@
 title: "Projects"
 
 ---
+## Senior Thesis: "Machine Learning Enhanced Credit Card Fraud Detection System"   August 2023 - Present
 
-# Tech & IT Intern - Residential Life, Allegheny College
+*Developing a web-based tool for credit card fraud detection using Python, employing machine learning algorithms such as Random Forest and Logistic Regression for predictive analysis*
+*Analyzing large-scale datasets with a focus on financial transactions, demonstrating strong data handling and analytical skills crucial for financial analysis*
 
-Fall 2023-Present
-Assist in comprehensive enhancements of on-campus digital connectivity, ensuring all 8 residential halls have Wi-Fi access and the housing selection platform is up to date, significantly improving students' daily online and living experiences Initiate and advocate for programs that nurture diversity and inclusion, while also strategizing tech-enabled safety measures, ensuring a secure, supportive, and cohesive residential environment Serve as the pivotal tech figure for the Residence Life team, providing immediate IT assistance, managing backend database operations, and steering technology projects that contribute to a modern, efficient, and engaging campus
+## Advise-A-Gator, Allegheny College                      May 2023-August 2023
 
-Health Insurance Agent - Aflac Inc, Ohio
-Technical Leader, Data Exploration
-January 2024 - Present
-
-- Completed one-month coursework and training to become a certified insurance agent in Ohio
-
-- Participated in hands-on training to learn key skills for insurance sales, including prospecting, needs analysis, and closing techniques
-
--Utilized social and business networking skills to help CEOs, business owners, and HR managers determine which programs best suit their employees.
+- Conceptualized and developed an interactive visual roadmap and dashboard, revolutionizing how students plan their academic journeys across four major and minor programs at Allegheny College IT Department
+- Orchestrated an innovative shift from standard bulletins to a dynamic, user-interactive platform, enhancing student engagement through intuitive, clickable course cards that provide detailed curriculum insights
+- Oversaw the engineering of a robust system architecture, optimizing consistency and ease of updates, while also implementing a user-friendly interface that facilitates seamless navigation between academic roadmaps
