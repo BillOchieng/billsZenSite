@@ -4,8 +4,8 @@ title: "Projects"
 ---
 ## Senior Thesis: "Machine Learning Enhanced Credit Card Fraud Detection System"   August 2023 - Present
 
-*Developing a web-based tool for credit card fraud detection using Python, employing machine learning algorithms such as Random Forest and Logistic Regression for predictive analysis*
-*Analyzing large-scale datasets with a focus on financial transactions, demonstrating strong data handling and analytical skills crucial for financial analysis*
+- Developing a web-based tool for credit card fraud detection using Python, employing machine learning algorithms such as Random Forest and Logistic Regression for predictive analysis
+- Analyzing large-scale datasets with a focus on financial transactions, demonstrating strong data handling and analytical skills crucial for financial analysis
 
 ## Advise-A-Gator, Allegheny College                      May 2023-August 2023
 
