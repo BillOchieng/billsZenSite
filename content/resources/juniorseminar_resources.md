@@ -2,17 +2,45 @@
 title: "Skills"
 ---
 
-## Technical skills
+## TECHNICAL SKILLS
 
-**Software**
+* [Excel]
+* [Stata]
+* [SQL]
+* [NoSQL]
+* [MongoDB]
+* [RStudio]
+* [R Programming Language]
+* [Golang]
+* [Python Programming Language]
+* [Java]
+* [Git for Mac]
+* [HTML]
+* [CSS]
+* [Git for Windows]
+* [Matplotlib]
+* [Tableau]
+* [Kaggle]
+* [Bloomberg Terminal]
+* [pandas]
+* [React]
+* [Figma]
+* [Scikit Learn]
+* [Seaborn]
+* [D3.js]
+* [Docker]
 
-* [RStudio](https://posit.co/)
-* [R Programming Language](https://cran.rstudio.com/)
-* [Python Programming Language](https://www.python.org/downloads/)
-* [Git for Mac](https://mac.github.com/)
-* [Git for Windows](https://windows.github.com/)
-* [Git for all platforms](https://git-scm.com/)
+****SOFT SKILLS -->**
 
-## soft skills
-
-*[Git for all platforms](https://git-scm.com/)
+* [Communication]
+* [Team Collaboration]
+* [Problem-Solving]
+* [Adaptability]
+* [Time Management]
+* [Leadership]
+* [Emotional Intelligence (EI)]
+* [Project Management]
+* [Conflict Resolution]
+* [Critical Thinking]
+* [Customer Service Orientation]
+* [Cultural Competency]
