@@ -13,12 +13,20 @@ title: "Projects"
 - Orchestrated an innovative shift from standard bulletins to a dynamic, user-interactive platform, enhancing student engagement through intuitive, clickable course cards that provide detailed curriculum insights
 - Oversaw the engineering of a robust system architecture, optimizing consistency and ease of updates, while also implementing a user-friendly interface that facilitates seamless navigation between academic roadmaps
 
-# SheetShuttle Documentation & Web Integration August 2021 - December 2021
+# SheetShuttle Documentation & Web Integration
 
-- Guided a team of 3 in developing user-centric documentation for the SheetShuttle plugin with MKdocs, simplifying the installation and operational processes
-- Established an automated update system for the project website, enhancing real-time accuracy and boosting user confidence and interaction
-- Oversaw stringent testing to ensure plugin reliability and performance, directly contributing to user satisfaction and positive feedback
-- Managed dynamic website development, maintaining content relevance and accessibility, and optimizing user engagement with current information
+    Duration: August - December 2021
+
+*Project Overview & Outcome:*
+
+- The SheetShuttle project streamlined the plugin's user experience by developing intuitive documentation and a dynamic website, leveraging MKdocs. This initiative simplified the installation and operation process, enhancing accessibility for CIS department students. The successful implementation led to positive feedback and higher engagement, establishing SheetShuttle as a more accessible and reliable tool for its users.
+
+*Key Features:*
+
+- *User-Centric Documentation*: Created with MKdocs, the documentation provided clear, step-by-step guides, significantly easing the installation and use of the SheetShuttle plugin.
+- *Automated Update System*: Developed an automated system for the project website, ensuring the delivery of current, accurate content, thereby increasing user trust and engagement.
+- *Enhanced Reliability*: Conducted thorough testing to ensure the plugin's reliability and performance, leading to improved user satisfaction.
+- *Dynamic Content Management*: The project website was regularly updated with relevant, accessible content, encouraging ongoing user engagement by providing the latest information and updates.
 
 # Fault Lines in Aerospace Manufacturing: A Database Analysis of Material Waste
 
