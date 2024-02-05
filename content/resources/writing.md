@@ -18,6 +18,10 @@ title: "Experience"
 
     May 2022-August 2022
 
+****Project Lead - SheetShuttle Documentation & Web Integration**
+
+    August 2021 - December 2021
+
 ****Shadowed engineering and manufacturing processes at Mars Wrigley -  Nairobi, Kenya**  
 
     March 2020-March 2020
