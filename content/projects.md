@@ -52,7 +52,20 @@ title: "Projects"
 
 # Fault Lines in Aerospace Manufacturing: A Database Analysis of Material Waste
 
-# billsZenSite
+# Hugo Zen Theme - billsZenSite
+
+- Developed a custom, *responsive website* with the Hugo Zen base theme, emphasizing semantic HTML5, modern CSS with grid and flex layouts, and accessibility standards. The project leverages HTML5 (51% of the codebase), SCSS, JavaScript (8.3%), and Shell Scripts for a tailored theme design and automated workflow.
+- *Hosted on Netlify*, utilizing its *CI/CD pipeline* for automated builds and deployments, which increased the project's accessibility and reliability.
+- *Integrated Google Analytics* for detailed user interaction tracking and behavior insights, enabling data-driven site improvements.
+
+*Key Features and Enhancements*:
+
+- *Mobile-First Design*: Applied CSS grid and flexbox for a responsive layout that ensures optimal user experience across all devices.
+- *CSS Customization*: Used CSS variables within a modern CSS framework to facilitate easy theme adjustments and theming.
+- *Efficient Asset Management*: Employed Hugo Pipes for streamlined asset management, significantly enhancing load times and site performance.
+- *Accessibility and Best Practices*: Maintained a strong adherence to semantic HTML and accessibility standards, broadening the site's usability.
+- *Continuous Deployment*: Benefited from Netlify's seamless hosting and deployment capabilities, ensuring a smooth transition from development to production.
+- *User Engagement Analysis*: Leveraged Google Analytics for insightful analytics on user engagement, guiding focused content and design optimizations.
 
 # Interdimensional Data Adventures: Building a Python-Driven DBMS with Rick and Morty
 
@@ -60,7 +73,25 @@ title: "Projects"
 
 # Unlocking MongoDB: Query Mastery with Docker Containers
 
-# Simon-Says-Game-Project
+# Simon Says Game
+
+    Duration: January - May 2022
+
+*Project Overview & Outcome:*
+
+- I embarked on the *Simon Says* game project with the goal of breathing new life into the iconic memory skill game by transforming it into a web-based format. This initiative aimed to enhance its accessibility and broaden its appeal across a wider audience. With a mix of HTML, CSS, and JavaScript, I developed an interactive, user-friendly platform that successfully drew in users from diverse backgrounds. The launch of the game was a significant milestone for, providing an engaging and challenging experience for players that led to widespread acclaim and robust user engagement.
+
+*Key Features:*
+
+- *Intuitive User Interface*: By leveraging modern web technologies, I designed the Simon Says game with a simple yet captivating interface, enabling players to interact with the game effortlessly. My focus on usability ensured that players of all ages could navigate and enjoy the game without facing a steep learning curve.
+- *Progressive Difficulty Levels*: I implemented a system within the game that dynamically increases its difficulty as the player advances. This feature offers a balanced challenge that keeps users engaged and motivates them to enhance their memory and concentration skills.
+- *Customizable Themes and Sounds*: In my quest to enrich the user experience, the game was equipped with options for theme customization and unique sounds for each color. This customization makes gameplay more enjoyable and personal for each player.
+- *Real-time Score Tracking*: Using JavaScript logic, the game provides immediate feedback on the player’s performance by tracking and displaying scores in real-time. This fosters a competitive and rewarding environment for the players.
+- *Responsive Design*: I ensured that the game’s layout was fully responsive, guaranteeing a seamless experience across various devices and screen sizes, from desktops to smartphones.
+- *Accessibility Features*: I placed special attention on making the game accessible, incorporating keyboard navigation options and visual cues to cater to users with different needs, thereby promoting inclusivity.
+- *Efficient Performance*: Prior to its launch, I led rigorous testing phases focused on optimizing the game's performance. This resulted in fast load times and a smooth, uninterrupted gameplay experience, even on lower-end devices.
+
+*The Simon Says game project is a testament to the successful integration of classic game mechanics with modern web development practices. It resulted in a product that not only pays homage to the original but also introduces it to the digital age with flair and functionality. This project showcases my commitment to creating high-quality, user-centered entertainment experiences.*
 
 # Oil on the Scales: Examining the Impact of Vegetable Oil Consumption on Global Obesity Trends
 
