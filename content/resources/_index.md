@@ -1,8 +1,12 @@
 ---
-title: "About Me"
+title: "AboutMe & CV"
 ---
 
 ![logo](/resources/images/fc1_300.png)
+
+#### CV
+
+Please see my [Curriculum Vitae](https://docs.google.com/document/d/12nKvJivsV52R4VUmQndVOUS4QIbESFLD/edit?usp=sharing&ouid=115510404615572584792&rtpof=true&sd=true)!
 
 ### Hi, there! I am **Bill Ochieng**
 
